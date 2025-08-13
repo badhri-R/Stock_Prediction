@@ -1,3 +1,4 @@
+Partnered with my friend in Executing this Stock_Prediction
 📈 Stock Price Analysis & Forecasting
 This repository contains a Python-based project for analyzing and visualizing stock market data.
 It uses time series statistical methods to detect patterns, trends, and potential forecasts from historical stock data.
@@ -23,4 +24,5 @@ Matplotlib
 Seaborn
 
 Statsmodels
+
 
